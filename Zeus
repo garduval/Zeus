@@ -1,0 +1,42 @@
+{
+"name": "Zeus",
+"image": "https://imgur.com/0yrcz7t",
+"url": "La url del pastebin",
+"groups": [
+{
+"name": "Movistar lista 1",
+"image": "url de la imagen que quieras",
+"url": "El enlace de la lista, el pastebin"
+},
+{
+"name": "Movistar lista 2",
+"image": "url de la imagen que quieras",
+"url": "El enlace de la lista, el pastebin"
+}, 
+{
+"name": "Movistar lista 3",
+"image": "url de la imagen que quieras",
+"url": "El enlace de la lista, el pastebin"
+},
+{
+"name": "Movistar lista 4",
+"image": "url de la imagen que quieras",
+"url": "El enlace de la lista, el pastebin"
+}, 
+{
+"name": "Movistar lista 5",
+"image": "url de la imagen que quieras",
+"url": "El enlace de la lista, el pastebin"
+ }, 
+{
+"name": "Movistar lista 6",
+"image": "url de la imagen que quieras",
+"url": "El enlace de la lista, el pastebin"
+}, 
+{
+"name": "Movistar lista 7",
+"image": "url de la imagen que quieras",
+"url": "El enlace de la lista, el pastebin"
+        }
+ ]
+}
