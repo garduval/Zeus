@@ -4,12 +4,12 @@
 "url": "https://raw.githubusercontent.com/garduval/Zeus/refs/heads/main/Zeus",
 "groups": [
 {
-"name": "Movistar lista 1",
+"name": "TDT 1",
 "image": "https://i.ibb.co/Gf9B4NBq/tdt.png",
 "url": "https://raw.githubusercontent.com/garduval/TDT-Zeus/refs/heads/main/TDT"
 },
 {
-"name": "Movistar lista 2",
+"name": "Movistar 2",
 "image": "https://i.ibb.co/fdBBxcVv/movistar.jpg",
 "url": "https://raw.githubusercontent.com/garduval/Movistar/refs/heads/main/Deportes"
 }, 
@@ -24,8 +24,8 @@
 "url": "https://raw.githubusercontent.com/garduval/La-Liga-EASport/refs/heads/main/La-Liga-EASport"
 }, 
 {
-"name": "Movistar lista 5",
-"image": "url de la imagen que quieras",
+"name": "La liga Hypermotion 5",
+"image": "https://i.ibb.co/KpN56Jkd/La-liga-hypermotion.png",
 "url": "El enlace de la lista, el pastebin"
  }, 
 {
