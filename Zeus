@@ -4,42 +4,42 @@
 "url": "https://raw.githubusercontent.com/garduval/Zeus/refs/heads/main/Zeus",
 "groups": [
 {
-"name": "TDT 1",
+"name": "TDT",
 "image": "https://i.ibb.co/Gf9B4NBq/tdt.png",
 "url": "https://raw.githubusercontent.com/garduval/TDT-Zeus/refs/heads/main/TDT"
 },
 {
-"name": "Movistar 2",
+"name": "Movistar",
 "image": "https://i.ibb.co/fdBBxcVv/movistar.jpg",
 "url": "https://raw.githubusercontent.com/garduval/Movistar/refs/heads/main/Deportes"
 }, 
 {
-"name": "Dazn 3",
+"name": "Dazn",
 "image": "https://i.ibb.co/b9dLB9T/Dazn.jpg",
 "url": "https://raw.githubusercontent.com/garduval/Dazn/refs/heads/main/Dazn"
 },
 {
-"name": "La Liga EA Sports 4",
+"name": "La Liga EA Sports",
 "image": "https://i.ibb.co/67DBZFKP/la-liga.png",
 "url": "https://raw.githubusercontent.com/garduval/La-Liga-EASport/refs/heads/main/La-Liga-EASport"
 }, 
 {
-"name": "La liga Hypermotion 5",
+"name": "La liga Hypermotion",
 "image": "https://i.ibb.co/KpN56Jkd/La-liga-hypermotion.png",
 "url": "https://raw.githubusercontent.com/garduval/La-liga-Hypermotion/refs/heads/main/La%20liga%20hypermotion"
  }, 
 {
-"name": "FEFTV 6",
+"name": "FEFTV",
 "image": "https://i.ibb.co/VWcww6xL/primera-federacion.jpg",
 "url": "https://raw.githubusercontent.com/garduval/Primera-Federacion/refs/heads/main/FEFTV"
 }, 
 {
-"name": "Liga de Campeones 7",
+"name": "Liga de Campeones",
 "image": "https://i.ibb.co/XZMk4F01/Liga-de-Campeones.jpg",
 "url": "https://raw.githubusercontent.com/garduval/Liga-de-Campeones/refs/heads/main/Liga%20De%20Campeones"
  },
 {
-"name": "Copa Del REY 8",
+"name": "Copa Del REY",
 "image": "https://i.ibb.co/fGY4SGZt/Copa-del-rey.jpg",
 "url": "https://raw.githubusercontent.com/garduval/Copa-Del-Rey/refs/heads/main/Copa%20Del%20Rey"
  },
